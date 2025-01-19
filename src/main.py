@@ -7,5 +7,3 @@ if __name__ == "__main__":
     result_multiply = multiply_numbers(5, 3)
     print(f"Add result: {result_add}")
     print(f"Multiply result: {result_multiply}")
-    #работа со stash
-
